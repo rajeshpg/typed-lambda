@@ -2,6 +2,7 @@
 layout: post
 title: 'Lambda Calculus: Identity function'
 date: '2017-03-04 12:00:00'
+published: false
 tags:
 - lambda-calculus
 - identity-function

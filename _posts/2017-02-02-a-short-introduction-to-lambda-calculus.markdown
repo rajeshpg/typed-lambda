@@ -2,6 +2,7 @@
 layout: post
 title: a short introduction to lambda calculus
 date: '2017-02-02 05:05:51'
+published: false
 tags:
 - lambda-calculus
 ---
