@@ -2,7 +2,7 @@
 layout: post
 title: 'Lambda Calculus: Lexical syntax'
 featured: true
-published: false
+published: true
 date: '2017-02-08 12:02:35'
 tags:
 - lambda-calculus
@@ -14,8 +14,8 @@ Lambda Calculus was invented by Alonzo Church as a formal system to model comput
 #### Symbols or keywords:  
 Lambda Calculus reserves very few symbols for use.  
 The Greek letter `λ` has become the unofficial keyword to represent start of a function.  
-`.` is used to separate function parameter and function body.  
-`()` is optionally used to group function application.
+A dot `.` is used to separate function parameter and function body.  
+Paratheses `()` is optionally used to group function application.
 
 #### Identifiers:
 In Lambda Calculus, unlike other programming languages, any sequence of non-blank characters can be used as identifiers.

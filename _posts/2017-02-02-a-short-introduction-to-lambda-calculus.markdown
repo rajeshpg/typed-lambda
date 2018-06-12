@@ -12,4 +12,4 @@ There couldn't be a much shorter and crispier introduction to lambda calculus th
 [![lambda-calculus-intro](http://img.youtube.com/vi/eis11j_iGMs/0.jpg)](http://www.youtube.com/watch?v=eis11j_iGMs "Video Title")
 
 
-We will see more about lambda calculus in [next](/p/49dba37e-ecc9-48c4-9b31-feb82c893a9c/) post.
+We will see more about lambda calculus in [next](/lambda-calculus-lexical-syntax) post.
